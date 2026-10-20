@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import "./App.css"
 import { Container, Card, CardBody, CardTitle, CardText, Row, Col, Spinner, Alert } from 'reactstrap';
 
 function App() {
